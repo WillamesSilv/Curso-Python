@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93402d05-2727-4d1a-9d7a-fac4c15065a2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Yw6ESNwghJK2WBVXT3oYNBGoss" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\BalancaZinho\PycharmProjects\cursoemvideo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.desafio050">
+    <configuration name="desafio009" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cursoemvideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio009.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio047" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cursoemvideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio047.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio048" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cursoemvideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio048.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio049" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cursoemvideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio049.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="desafio050" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cursoemvideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio050.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.desafio050" />
+        <item itemvalue="Python.desafio049" />
+        <item itemvalue="Python.desafio009" />
+        <item itemvalue="Python.desafio048" />
+        <item itemvalue="Python.desafio047" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93402d05-2727-4d1a-9d7a-fac4c15065a2" name="Default Changelist" comment="" />
+      <created>1583841200409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583841200409</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="21" key="#Inspections" timestamp="1584466763830">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="232" y="21" key="#Inspections/0.0.1280.728@0.0.1280.728" timestamp="1584466763830" />
+    <state x="389" y="199" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1584550559690">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="389" y="199" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1280.728@0.0.1280.728" timestamp="1584550559690" />
+    <state x="420" y="104" key="FileChooserDialogImpl" timestamp="1584388078188">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="420" y="104" key="FileChooserDialogImpl/0.0.1280.728@0.0.1280.728" timestamp="1584388078188" />
+    <state x="462" y="279" key="Github.CreateGistDialog" timestamp="1585596655520">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="462" y="279" key="Github.CreateGistDialog/0.0.1280.728@0.0.1280.728" timestamp="1585596655520" />
+    <state width="1258" height="275" key="GridCell.Tab.0.bottom" timestamp="1585598751525">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="1258" height="275" key="GridCell.Tab.0.bottom/0.0.1280.728@0.0.1280.728" timestamp="1585598751525" />
+    <state width="1258" height="275" key="GridCell.Tab.0.center" timestamp="1585598751488">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="1258" height="275" key="GridCell.Tab.0.center/0.0.1280.728@0.0.1280.728" timestamp="1585598751488" />
+    <state width="1258" height="275" key="GridCell.Tab.0.left" timestamp="1585598751426">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="1258" height="275" key="GridCell.Tab.0.left/0.0.1280.728@0.0.1280.728" timestamp="1585598751426" />
+    <state width="1258" height="275" key="GridCell.Tab.0.right" timestamp="1585598751488">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="1258" height="275" key="GridCell.Tab.0.right/0.0.1280.728@0.0.1280.728" timestamp="1585598751488" />
+    <state x="141" y="0" key="SettingsEditor" timestamp="1584550884647">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="141" y="0" key="SettingsEditor/0.0.1280.728@0.0.1280.728" timestamp="1584550884647" />
+    <state x="335" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1585652310504">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="335" y="186" key="com.intellij.ide.util.TipDialog/0.0.1280.728@0.0.1280.728" timestamp="1585652310504" />
+    <state width="600" height="424" key="javadoc.popup" timestamp="1584030406919">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state width="600" height="424" key="javadoc.popup/0.0.1280.728@0.0.1280.728" timestamp="1584030406918" />
+    <state x="303" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1585330963373">
+      <screen x="0" y="0" width="1280" height="728" />
+    </state>
+    <state x="303" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1280.728@0.0.1280.728" timestamp="1585330963373" />
+  </component>
+</project>
