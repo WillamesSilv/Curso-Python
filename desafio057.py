@@ -11,4 +11,4 @@ if s == 'M':
     print('Você digitou {}, portanto seu sexo é MASCULINO!'.format(s))
 if s == 'F':
     print('você digitou {}, portanto seu sexo é FEMININO!'.format(s))
-
+#O Guanabara usou while sexo not in 'MmFf'
