@@ -1,3 +1,4 @@
+from time import sleep
 n1 = int(input('Digite um número: '))
 n2 = int(input('Digite outro número: '))
 menu = 1
@@ -26,4 +27,5 @@ while menu != 5:
         print('\033[31mFINALIZANDO...')
     else:
         print('Opção inválida, tente novamente!')
+    sleep(2)
 print('\033[34mObrigado, volte sempre!')
