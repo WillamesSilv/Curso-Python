@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="93402d05-2727-4d1a-9d7a-fac4c15065a2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/desafio062.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/desafio061.py" beforeDir="false" afterPath="$PROJECT_DIR$/desafio061.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +40,7 @@
       <recent name="C:\Users\BalancaZinho\PycharmProjects\cursoemvideo" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.desafio061">
+  <component name="RunManager" selected="Python.desafio062">
     <configuration name="desafio051" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="cursoemvideo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,27 +54,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio051.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="desafio058" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="cursoemvideo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio058.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,13 +125,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="desafio062" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="cursoemvideo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/desafio062.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.desafio062" />
         <item itemvalue="Python.desafio061" />
         <item itemvalue="Python.desafio051" />
         <item itemvalue="Python.desafio060" />
         <item itemvalue="Python.desafio059" />
-        <item itemvalue="Python.desafio058" />
       </list>
     </recent_temporary>
   </component>
@@ -225,26 +225,26 @@
       <screen x="0" y="0" width="1280" height="728" />
     </state>
     <state x="462" y="279" key="Github.CreateGistDialog/0.0.1280.728@0.0.1280.728" timestamp="1585596655520" />
-    <state width="1893" height="318" key="GridCell.Tab.0.bottom" timestamp="1588601457428">
+    <state width="1893" height="318" key="GridCell.Tab.0.bottom" timestamp="1588607993125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1258" height="275" key="GridCell.Tab.0.bottom/0.0.1280.728@0.0.1280.728" timestamp="1585598751525" />
-    <state width="1893" height="318" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588601457428" />
-    <state width="1893" height="318" key="GridCell.Tab.0.center" timestamp="1588601457427">
+    <state width="1893" height="318" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588607993125" />
+    <state width="1893" height="318" key="GridCell.Tab.0.center" timestamp="1588607993125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1258" height="275" key="GridCell.Tab.0.center/0.0.1280.728@0.0.1280.728" timestamp="1585598751488" />
-    <state width="1893" height="318" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588601457427" />
-    <state width="1893" height="318" key="GridCell.Tab.0.left" timestamp="1588601457427">
+    <state width="1893" height="318" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588607993125" />
+    <state width="1893" height="318" key="GridCell.Tab.0.left" timestamp="1588607993125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1258" height="275" key="GridCell.Tab.0.left/0.0.1280.728@0.0.1280.728" timestamp="1585598751426" />
-    <state width="1893" height="318" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588601457427" />
-    <state width="1893" height="318" key="GridCell.Tab.0.right" timestamp="1588601457427">
+    <state width="1893" height="318" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588607993125" />
+    <state width="1893" height="318" key="GridCell.Tab.0.right" timestamp="1588607993125">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1258" height="275" key="GridCell.Tab.0.right/0.0.1280.728@0.0.1280.728" timestamp="1585598751488" />
-    <state width="1893" height="318" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588601457427" />
+    <state width="1893" height="318" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588607993125" />
     <state x="212" y="0" key="SettingsEditor" timestamp="1586204279250">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
