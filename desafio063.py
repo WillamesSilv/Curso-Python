@@ -1,7 +1,12 @@
-n = int(input('Digite um número: '))
-print('A sequência de Fibonacci com {} termos é:'.format(n))
-cont = 1
-while cont < n:
+n = int(input('Com quantos termos você quer ver a sequência de FIBONACCI? '))
+t1 = 0
+t2 = 1
+print('{} - {}'.format(t1, t2), end=' ')
+cont = 3
+while cont <= n:
+    t3 = t1 + t2
+    print('- {}'.format(t3), end=' ')
+    t1 = t2
+    t2 = t3
     cont += 1
-    
-    print(cont)
+print('- FIM')
