@@ -1,0 +1,7 @@
+r = 'S'
+cont = 0
+while r == 'S':
+  n = int(input('Digite um número: '))
+  r = str(input('Quer continuar? [S/N]: ')).upper()
+  cont += 1
+print('FIM! Você digitou {} número(s).'.format(cont))
