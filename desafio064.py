@@ -1,8 +1,7 @@
-n = 1
-cont = 0
-soma = 0
+n = cont = soma = 0 #todas as atribuições em uma linha.
+n = int(input('Digite um número [999 código de parada]: '))
 while n != 999:
-    n = int(input('Digite um número [999 código de parada]: '))
     cont += 1
     soma += n
-print('Você digitou {} números e a soma destes é {}.'.format(cont - 1, soma - 999))
+    n = int(input('Digite um número [999 código de parada]: '))
+print('Você digitou {} números e a soma destes é {}.'.format(cont, soma))
