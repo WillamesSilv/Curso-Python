@@ -1,7 +1,6 @@
-n = soma = cont = 0
-n = int(input('digite um número: '))
-r = str(input('Quer continuar? [S/N]: ')).upper()
-while r != 'N':
+n = soma = cont = med = 0
+r = 'S'
+while r == 'S':
     n = int(input('Digite um número: '))
     r = str(input('Quer continuar? [S/N]: ')).upper()
     cont += 1
