@@ -11,6 +11,7 @@ while True:
     while r not in 'PI':
         r = str(input('Você quer par ou impar? [P/I] ')).upper().strip()[0]
     print(f'Você jogou {n} e o computador {c}, total de {s}.')
+    print('Deu PAR' if s % 2 == 0 else 'Deu ÍMPAR')
     if r == 'P':
         if s % 2 == 0:
             print('Você VENCEU!')
