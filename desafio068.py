@@ -30,4 +30,3 @@ while True:
         print('Vamos mais uma vez! Digite um número: ')
 print('='*20)
 print(f'GAME OVER =( !! Você venceu {v} vezes.')
-
