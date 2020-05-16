@@ -1,6 +1,4 @@
-cont = 0
-h = 0
-f = 0
+cont = h = f = 0
 while True:
     print('='*25)
     print('CADASTRO DE PESSOAS')
