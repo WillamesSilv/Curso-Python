@@ -4,16 +4,15 @@ while True:
     print('CADASTRO DE PESSOAS')
     print('='*25)
     idade = int(input('IDADE: '))
-    if idade >= 18:
-        cont += 1
     sexo = ' '
     while sexo not in 'MF':
         sexo = str(input('SEXO: [M/F] ')).upper().strip()[0]
-        if sexo == 'M':
-            h += 1
-        if sexo == 'F':
-            if idade < 20:
-                f += 1
+    if idade >= 18:
+        cont += 1
+    if sexo == 'M':
+        h += 1
+    if sexo == 'F' and idade < 20:
+        f += 1
     print('-'*25)
     resp = ' '
     while resp not in 'SN':
