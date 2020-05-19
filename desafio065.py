@@ -1,4 +1,4 @@
-n = soma = cont = med = maior = menor =0
+n = soma = cont = med = maior = menor = 0
 r = 'S'
 while r == 'S':#Podemos usar tbm o in 'Ss'. o in é em.
     n = int(input('Digite um número: '))
