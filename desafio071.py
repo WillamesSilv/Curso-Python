@@ -1,7 +1,26 @@
 print('='*30)
 print('{:^30}'.format('BANCO MINEIRO'))
 print('='*30)
-c50 = c20 = c10 = c1 = 0
+valor = int(input('Qual o valor a ser sacado? R$'))
+total = valor
+ced = 50
+totalced = 0
 while True:
-    valor = int(input('Qual o valor a ser sacado? R$'))
-    
+    if total >= ced:
+        total -= ced
+        totalced += 1
+    else:
+        if totalced > 0:
+            print(f'Total de {totalced} cédulas de R${ced:.2f}.')
+        if ced == 50:
+            ced = 20
+        elif ced == 20:
+            ced = 10
+        elif ced == 10:
+            ced = 1
+        totalced = 0
+        if total == 0:
+            break
+print('='*30)
+print('Saque completo! Volte Sempre.')
+print('='*30)
