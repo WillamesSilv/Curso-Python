@@ -20,4 +20,4 @@ while True:
 print('-'*5, 'Fim do Programa', '-'*5)
 print(f'A soma dos valores dos proutos é R${s:.2f}')
 print(f'Temos {mil} produtos que custam mais de R$1000.00')
-print(f'O produtor mais é {barato} e custa R${menor}')
+print(f'O produto mais barato é {barato} e custa R${menor}')
