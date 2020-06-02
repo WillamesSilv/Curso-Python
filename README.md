@@ -2,7 +2,7 @@
 <img src="https://github.com/WillamesSilv/Curso-Python/blob/master/img/cursoemvideo-logo.png">
 </h1> 
  <h2>Curso de Python </h2>
- Neste curso entendemos os conceitos e toda a estrutura da linguagem pyton, na prática com mais de 100 exercícios.
+ Neste curso entendemos os conceitos e toda a estrutura da linguagem python, na prática com mais de 100 exercícios.
  Todas as aulas são dadas com a excelente didática do professor Gustavo Guanabara.
 <p align="center">
  <img width="250" src="https://github.com/WillamesSilv/Curso-Python/blob/master/img/m_60190.jpg">
