@@ -1,4 +1,4 @@
-listagem = ('Aroz', 15.80, 'Feijão', 5.40, 'Óleo', 3.20, 'Sal', 1.80, 'Açucar', 6, 'Leite', 3.4)
+listagem = ('Arroz', 15.80, 'Feijão', 5.40, 'Óleo', 3.20, 'Sal', 1.80, 'Açucar', 6, 'Leite', 3.4)
 print('-'*40)
 print(f'{"LISTAGEM DE PREÇO":^40}')
 print('-'*40)
